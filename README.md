@@ -6,7 +6,7 @@
 
 # Popularity based Recommendation system
 
-### This is one of the most used type of recommendation systems used. 
+### This is one of the most used type of recommendation system. 
 ### Since it recommends the most popular contents on the Database based on a metric (be it existing or custom) the changes of users liking them is high.
 
 # Collaborative Filtering Based Recommender System
